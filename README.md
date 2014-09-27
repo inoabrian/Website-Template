@@ -5,16 +5,16 @@ Template for a personal website I made.
 
 <div class="col-lg-12 col-xs-12 text-center">
   <div class="col-lg-4 col-md-4 col-xs-4">
-    <img src="http://www.inoabrian.com/images/Screenshot1.png" height="300"/>
+    <img src="http://www.inoabrian.com/images/Screenshot1.png" />
   </div>
     <div class="col-lg-4 col-md-4 col-xs-4">
-    <img src="http://www.inoabrian.com/images/Screenshot2.png" height="300"/>
+    <img src="http://www.inoabrian.com/images/Screenshot2.png" />
   </div>
   <div class="col-lg-4 col-md-4 col-xs-4">
-    <img src="http://www.inoabrian.com/images/Screenshot3.png" height="300"/>
+    <img src="http://www.inoabrian.com/images/Screenshot3.png" />
   </div>
-  div class="col-lg-4 col-md-4 col-xs-4">
-    <img src="http://www.inoabrian.com/images/Screenshot4.png" height="300"/>
+  <div class="col-lg-4 col-md-4 col-xs-4">
+    <img src="http://www.inoabrian.com/images/Screenshot4.png" />
   </div>
 </div>
 
